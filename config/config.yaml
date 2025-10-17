@@ -1,0 +1,5 @@
+# Optional YAML config for DataFlow
+fetch:
+  per_page: 100
+report:
+  top_n: 10

@@ -1,0 +1,11 @@
+repo_id,name,full_name,stars,stars_per_day
+81598961,cpython,python/cpython,69385,21.8811
+7053637,mypy,python/mypy,19906,4.238
+31696383,typeshed,python/typeshed,4888,1.2601
+13414105,peps,python/peps,4750,1.0815
+63972479,devguide,python/devguide,1999,0.5925
+24604008,typing,python/typing,1700,0.4212
+6127047,pythondotorg,python/pythondotorg,1587,0.3336
+33739295,asyncio,python/asyncio,1061,0.2761
+65949828,pyperformance,python/pyperformance,950,0.2838
+494077289,typing_extensions,python/typing_extensions,532,0.4266
